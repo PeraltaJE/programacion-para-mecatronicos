@@ -1,0 +1,6 @@
+Fecha y hora actual: 2023-11-10 11:40:36
+Numeros generados: 17, 8, 6
+Fecha y hora actual: 2023-11-10 11:41:35
+Numeros generados: 10, 12, 17
+Fecha y hora actual: 2023-11-10 11:41:35
+Numeros generados: 10, 12, 17
