@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700228661 source:c:\users\emmanuel\downloads\itla\programacion tipo c\estructura de alumnos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
